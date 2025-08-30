@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  padding: 150px;
+}
+div {
+  border: 100px;
+  border-radius: 20px;
+  background-color: grey;
+  padding: 50px;
+  margin: 60px;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+  font-size: large;
+}
+li {
+  color: white;
+  font-size: large;
+}
+img {
+  width: 100%;
+  border-radius: 5px;
+}
