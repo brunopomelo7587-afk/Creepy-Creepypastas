@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+  padding: 150px;
+}
+div {
+  border: 100px;
+  border-radius: 20px;
+  background-color: grey;
+  padding: 7px 50px 50px 50px;
+  margin: 60px;
+}
+.topdiv {
+  border: 100px;
+  border-radius: 20px;
+  background-color: grey;
+  padding: 50px 50px 50px 50px;
+  margin: 60px;
+  text-align: center;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+  font-size: large;
+}
+li {
+  color: white;
+  font-size: large;
+}
+img {
+  width: 100%;
+  border-radius: 12px;
+}
+.smallimg {
+  height: 40%;
+  width: 90%;
+}
+.containercentre {
+  text-align: center;
+}
+.containerleft {
+  text-align: left;
+}
+.mediumtext{
+ font-size: 30px;
+}
+.bigtext {
+  font-size: 25px;
+}
+.hugetext {
+  font-size: 50px;
+}
+.hugetitle {
+  font-size: 60px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(80, 13, 13);
+}
+.color1 {
+  color: rgb(37, 32, 32);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 300;
+}
+.color2 {
+  color: black;
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
