@@ -37,7 +37,15 @@ img {
 }
 .smallimg {
   height: 40%;
-  width: 90%;
+  width: 70%;
+}
+.smallerimg {
+  height: 1%;
+  width: 80%;
+}
+kakegao2 {
+  height: 1%;
+  width: 1%;
 }
 .containercentre {
   text-align: center;
@@ -45,8 +53,8 @@ img {
 .containerleft {
   text-align: left;
 }
-.mediumtext{
- font-size: 30px;
+.mediumtext {
+  font-size: 30px;
 }
 .bigtext {
   font-size: 25px;
